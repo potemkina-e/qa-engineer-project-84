@@ -28,7 +28,7 @@
   status: fail
 
 - summary: |
-    Проверка просмотра товара
+    Проверка просмотра товаров
   status: fail
 
 - summary: |
